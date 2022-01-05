@@ -70,3 +70,63 @@ h3 span {
   background-repeat: no-repeat;
   background-position: left;
 }
+
+#fname {
+  width: 40%;
+  padding: 20px 20px;
+  display: inline-block;
+  margin-left: 200px;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+
+#email {
+  width: 40%;
+  padding: 20px 20px;
+  margin-left: 10px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+#subject {
+  width: 81%;
+  padding: 20px 20px;
+  margin-top: 20px;
+  margin-left: 200px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+
+#message {
+  width: 81%;
+  padding: 20px 20px;
+  margin-top: 20px;
+  margin-left: 200px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+
+#submit {
+  width: 10%;
+  /* padding: 10px 10px; */
+  margin-left: 48%;
+  /* display: inline-block; */
+  /* border: 1px solid black; */
+  /* border-radius: 20px; */
+  /* box-sizing: border-box; */
+  margin-top: 20px;
+  /* color: rgb(84, 84, 182); */
+  font-size: 15px;
+  /* text-decoration: none; */
+  padding: 10px 20px;
+  background-image: linear-gradient(orange, tomato);
+  color: aliceblue;
+  font-weight: 700;
+  border-radius: 20px;
+}
