@@ -71,7 +71,7 @@ h3 span {
   background-position: left;
 }
 
-#fname {
+.fname {
   width: 40%;
   padding: 20px 20px;
   display: inline-block;
@@ -81,7 +81,7 @@ h3 span {
   box-sizing: border-box;
 }
 
-#email {
+.email {
   width: 40%;
   padding: 20px 20px;
   margin-left: 10px;
@@ -90,7 +90,7 @@ h3 span {
   border-radius: 20px;
   box-sizing: border-box;
 }
-#subject {
+.subject {
   width: 81%;
   padding: 20px 20px;
   margin-top: 20px;
@@ -101,7 +101,7 @@ h3 span {
   box-sizing: border-box;
 }
 
-#message {
+.message {
   width: 81%;
   padding: 20px 20px;
   margin-top: 20px;
@@ -112,7 +112,7 @@ h3 span {
   box-sizing: border-box;
 }
 
-#submit {
+.submit {
   width: 10%;
   /* padding: 10px 10px; */
   margin-left: 48%;
